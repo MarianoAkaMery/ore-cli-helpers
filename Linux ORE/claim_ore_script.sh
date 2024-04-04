@@ -4,9 +4,9 @@
 while true
 do
   echo "Starting ore claim process..."
-  ore --keypair ~/.config/solana/id.json rewards
+  ore --keypair ~/.config/solana/id.json claim
 
   echo "Restarting..."
-  # Optional: sleep for x second before restarting to avoid spamming
+  # Optional: sleep for x seconds before restarting to avoid spamming
   sleep 15
 done
