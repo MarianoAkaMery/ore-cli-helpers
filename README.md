@@ -1,4 +1,3 @@
-```
 # ORE Mining Automation Scripts
 
 This repository contains a set of scripts designed to automate the process of mining ORE using the ORE CLI. These scripts help users to continuously mine ORE, check their balance, and claim rewards with minimal manual intervention.
